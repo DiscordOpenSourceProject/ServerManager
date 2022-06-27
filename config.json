@@ -1,0 +1,6 @@
+{
+  "Token":"Input Bot Token",
+  "TestMode":"true Or false",
+  "TestGuild":"SlashCommand Test Guild",
+  "ClientId":"Input Bot Client Id"
+}
